@@ -1,0 +1,6 @@
+{
+  "name": "Sidi Travel & Tours Ltd. — Hajj, Umrah & Global Travel",
+  "description": "Online Travel Agency and Hajj & Umrah booking platform for Sidi Travel & Tours Ltd., Kano, Nigeria. Book flights, Ramadan Umrah packages, hotels, and visa assistance with flexible installment plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

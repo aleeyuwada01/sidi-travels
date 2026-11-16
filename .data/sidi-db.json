@@ -1,0 +1,1183 @@
+{
+  "users": [
+    {
+      "id": "user-demo-1",
+      "name": "Alhaji Ibrahim Musa",
+      "email": "user@siditravel.com",
+      "phone": "08035926442",
+      "role": "user",
+      "city": "Kano"
+    },
+    {
+      "id": "admin-demo-1",
+      "name": "Sidi Operations Admin",
+      "email": "admin@siditravel.com",
+      "phone": "07063239860",
+      "role": "admin",
+      "city": "Kano"
+    },
+    {
+      "id": "user-1794828546901",
+      "name": "Alhaji Sadiq Garba",
+      "email": "sadiq.garba@example.com",
+      "phone": "08031112233",
+      "role": "user",
+      "city": "Kano"
+    },
+    {
+      "id": "user-1794828712342",
+      "name": "Hajiya Amina Bello",
+      "email": "amina.bello@example.com",
+      "phone": "08062653644",
+      "role": "user",
+      "city": "Kano"
+    }
+  ],
+  "packages": [
+    {
+      "id": "umrah-ramadan-economy",
+      "title": "Ramadan 2027 Umrah — Economy",
+      "season": "Ramadan 2027",
+      "category": "Ramadan Umrah",
+      "tier": "Economy",
+      "subtitle": "Comfortable & Affordable",
+      "priceNgn": 4700000,
+      "hotelRating": "3★ Quality Hotels",
+      "makkahHotel": "Voco Makkah / Al Kiswah Towers (Shuttle to Haram)",
+      "madinahHotel": "Bosphorus Al Madinah (400m to Nabawi)",
+      "distanceToHaram": "Shuttle / 650m Walking",
+      "description": "Perform your Umrah in the blessed month of Ramadan with comfortable 3-star hotel accommodation, direct Saudi Airlines flights from Kano, full Umrah visa processing, guided Ziyarat in Makkah and Madinah, and dedicated bilingual escorts.",
+      "inclusions": [
+        "Return Flight Ticket (Saudi Airlines Direct)",
+        "Umrah Visa Processing & Insurance",
+        "3★ Hotel Accommodation in Makkah & Madinah",
+        "Air-Conditioned Ground Transportation",
+        "Guided Ziyarat in Makkah & Madinah",
+        "Dedicated Umrah Team & Escort Guide"
+      ],
+      "featured": true,
+      "coverImage": "/src/assets/images/makkah_masjid_al_haram_1794828027918.jpg",
+      "schedules": [
+        {
+          "id": "sched-pkg-1",
+          "label": "Package 1",
+          "departureDate": "2027-02-08",
+          "returnDate": "2027-03-06",
+          "departureRoute": "Kano → Jeddah",
+          "returnRoute": "Jeddah → Kano",
+          "airline": "Saudi Airlines (Direct)",
+          "seatsTotal": 45,
+          "seatsBooked": 34,
+          "escortId": "esc-1"
+        },
+        {
+          "id": "sched-pkg-2",
+          "label": "Package 2",
+          "departureDate": "2027-02-12",
+          "returnDate": "2027-03-14",
+          "departureRoute": "Kano → Jeddah",
+          "returnRoute": "Jeddah → Kano",
+          "airline": "Saudi Airlines (Direct)",
+          "seatsTotal": 45,
+          "seatsBooked": 36,
+          "escortId": "esc-2"
+        },
+        {
+          "id": "sched-pkg-3",
+          "label": "Package 3",
+          "departureDate": "2027-02-17",
+          "returnDate": "2027-03-14",
+          "departureRoute": "Kano → Jeddah",
+          "returnRoute": "Jeddah → Kano",
+          "airline": "Saudi Airlines (Direct)",
+          "seatsTotal": 45,
+          "seatsBooked": 28,
+          "escortId": "esc-1"
+        },
+        {
+          "id": "sched-pkg-4",
+          "label": "Package 4",
+          "departureDate": "2027-02-22",
+          "returnDate": "2027-03-13",
+          "departureRoute": "Kano → Madinah",
+          "returnRoute": "Jeddah → Kano",
+          "airline": "Saudi Airlines (Direct)",
+          "seatsTotal": 40,
+          "seatsBooked": 33,
+          "escortId": "esc-3"
+        },
+        {
+          "id": "sched-pkg-5",
+          "label": "Package 5",
+          "departureDate": "2027-02-27",
+          "returnDate": "2027-03-13",
+          "departureRoute": "Kano → Madinah",
+          "returnRoute": "Jeddah → Kano",
+          "airline": "Saudi Airlines (Direct)",
+          "seatsTotal": 40,
+          "seatsBooked": 29,
+          "escortId": "esc-2"
+        }
+      ]
+    },
+    {
+      "id": "umrah-ramadan-luxury",
+      "title": "Ramadan 2027 Umrah — Luxury",
+      "season": "Ramadan 2027",
+      "category": "Ramadan Umrah",
+      "tier": "Luxury",
+      "subtitle": "More Comfort, More Value",
+      "priceNgn": 6000000,
+      "hotelRating": "4★ Quality Hotels",
+      "makkahHotel": "Anjum Hotel Makkah / Jabal Omar Hyatt",
+      "madinahHotel": "Pullman Zamzam Madinah",
+      "distanceToHaram": "150m–250m Walking Distance",
+      "description": "Elevated Ramadan Umrah experience within short walking distance of Masjid al-Haram and Masjid an-Nabawi. Includes daily Iftar & Suhoor buffet coordination, fast-track airport reception in Jeddah/Madinah, and senior scholarly guidance.",
+      "inclusions": [
+        "Return Flight Ticket (Saudi Airlines Direct)",
+        "Express Umrah Visa & Biometric Support",
+        "4★ Walking-Distance Hotels in Makkah & Madinah",
+        "Executive Coach Ground Transfers",
+        "Guided Historical Ziyarat Tours",
+        "24/7 Senior Escort & Scholarly Lectures"
+      ],
+      "featured": true,
+      "coverImage": "/src/assets/images/madinah_masjid_nabawi_1794828028548.jpg",
+      "schedules": [
+        {
+          "id": "sched-pkg-1-lux",
+          "label": "Package 1",
+          "departureDate": "2027-02-08",
+          "returnDate": "2027-03-06",
+          "departureRoute": "Kano → Jeddah",
+          "returnRoute": "Jeddah → Kano",
+          "airline": "Saudi Airlines (Direct)",
+          "seatsTotal": 45,
+          "seatsBooked": 31,
+          "escortId": "esc-1"
+        },
+        {
+          "id": "sched-pkg-2-lux",
+          "label": "Package 2",
+          "departureDate": "2027-02-12",
+          "returnDate": "2027-03-14",
+          "departureRoute": "Kano → Jeddah",
+          "returnRoute": "Jeddah → Kano",
+          "airline": "Saudi Airlines (Direct)",
+          "seatsTotal": 45,
+          "seatsBooked": 36,
+          "escortId": "esc-2"
+        },
+        {
+          "id": "sched-pkg-3-lux",
+          "label": "Package 3",
+          "departureDate": "2027-02-17",
+          "returnDate": "2027-03-14",
+          "departureRoute": "Kano → Jeddah",
+          "returnRoute": "Jeddah → Kano",
+          "airline": "Saudi Airlines (Direct)",
+          "seatsTotal": 45,
+          "seatsBooked": 28,
+          "escortId": "esc-1"
+        },
+        {
+          "id": "sched-pkg-4-lux",
+          "label": "Package 4",
+          "departureDate": "2027-02-22",
+          "returnDate": "2027-03-13",
+          "departureRoute": "Kano → Madinah",
+          "returnRoute": "Jeddah → Kano",
+          "airline": "Saudi Airlines (Direct)",
+          "seatsTotal": 40,
+          "seatsBooked": 33,
+          "escortId": "esc-3"
+        },
+        {
+          "id": "sched-pkg-5-lux",
+          "label": "Package 5",
+          "departureDate": "2027-02-27",
+          "returnDate": "2027-03-13",
+          "departureRoute": "Kano → Madinah",
+          "returnRoute": "Jeddah → Kano",
+          "airline": "Saudi Airlines (Direct)",
+          "seatsTotal": 40,
+          "seatsBooked": 29,
+          "escortId": "esc-2"
+        }
+      ]
+    },
+    {
+      "id": "umrah-ramadan-premium",
+      "title": "Ramadan 2027 Umrah — Premium VIP",
+      "season": "Ramadan 2027",
+      "category": "Ramadan Umrah",
+      "tier": "Premium",
+      "subtitle": "Premium Experience",
+      "priceNgn": 11000000,
+      "hotelRating": "5★ Haram-View Hotels",
+      "makkahHotel": "Fairmont Makkah Clock Royal Tower (Haram Courtyard)",
+      "madinahHotel": "The Oberoi Madinah / Anwar Al Madinah Mövenpick",
+      "distanceToHaram": "Direct Haram Courtyard Access",
+      "description": "Our flagship VIP Ramadan Umrah package featuring 5-star Clock Tower suites overlooking the Kaaba, Business Class flight upgrade options, private GMC/SUV airport transfers, VIP Haramain High-Speed Rail between Makkah and Madinah, and concierge pilgrim care.",
+      "inclusions": [
+        "Priority Saudi Airlines Return Ticket",
+        "VIP Umrah Visa & Concierge Reception",
+        "5★ Haram Courtyard Suites (Makkah & Madinah)",
+        "Haramain High-Speed Rail & Private SUV Transfers",
+        "Private Guided Ziyarat & Daily Suhoor/Iftar",
+        "Dedicated Personal Escort & Medical Support"
+      ],
+      "featured": true,
+      "coverImage": "/src/assets/images/makkah_luxury_hotel_suite_1794828029477.jpg",
+      "schedules": [
+        {
+          "id": "sched-pkg-1-vip",
+          "label": "Package 1",
+          "departureDate": "2027-02-08",
+          "returnDate": "2027-03-06",
+          "departureRoute": "Kano → Jeddah",
+          "returnRoute": "Jeddah → Kano",
+          "airline": "Saudi Airlines (Direct)",
+          "seatsTotal": 45,
+          "seatsBooked": 31,
+          "escortId": "esc-1"
+        },
+        {
+          "id": "sched-pkg-2-vip",
+          "label": "Package 2",
+          "departureDate": "2027-02-12",
+          "returnDate": "2027-03-14",
+          "departureRoute": "Kano → Jeddah",
+          "returnRoute": "Jeddah → Kano",
+          "airline": "Saudi Airlines (Direct)",
+          "seatsTotal": 45,
+          "seatsBooked": 36,
+          "escortId": "esc-2"
+        },
+        {
+          "id": "sched-pkg-3-vip",
+          "label": "Package 3",
+          "departureDate": "2027-02-17",
+          "returnDate": "2027-03-14",
+          "departureRoute": "Kano → Jeddah",
+          "returnRoute": "Jeddah → Kano",
+          "airline": "Saudi Airlines (Direct)",
+          "seatsTotal": 45,
+          "seatsBooked": 28,
+          "escortId": "esc-1"
+        },
+        {
+          "id": "sched-pkg-4-vip",
+          "label": "Package 4",
+          "departureDate": "2027-02-22",
+          "returnDate": "2027-03-13",
+          "departureRoute": "Kano → Madinah",
+          "returnRoute": "Jeddah → Kano",
+          "airline": "Saudi Airlines (Direct)",
+          "seatsTotal": 40,
+          "seatsBooked": 33,
+          "escortId": "esc-3"
+        },
+        {
+          "id": "sched-pkg-5-vip",
+          "label": "Package 5",
+          "departureDate": "2027-02-27",
+          "returnDate": "2027-03-13",
+          "departureRoute": "Kano → Madinah",
+          "returnRoute": "Jeddah → Kano",
+          "airline": "Saudi Airlines (Direct)",
+          "seatsTotal": 40,
+          "seatsBooked": 29,
+          "escortId": "esc-2"
+        }
+      ]
+    },
+    {
+      "id": "umrah-shawwal-regular",
+      "title": "Regular Umrah — Serenity Batch",
+      "season": "Regular Umrah 2027",
+      "category": "Regular Umrah",
+      "tier": "Economy",
+      "subtitle": "Peaceful Off-Peak Pilgrimage",
+      "priceNgn": 3950000,
+      "hotelRating": "3★–4★ Partner Hotels",
+      "makkahHotel": "Al Marwa Rayhaan / Emaar Grand Hotel",
+      "madinahHotel": "Saja Al Madinah Hotel",
+      "distanceToHaram": "350m Walking Distance",
+      "description": "Ideal for families and first-time pilgrims seeking a serene, crowd-free Umrah outside peak Ramadan dates with full Kano departure support.",
+      "inclusions": [
+        "Return Flight Ticket (Kano – Jeddah / Madinah)",
+        "Umrah Visa & Health Insurance",
+        "10 Nights Makkah & Madinah Accommodation",
+        "Ziyarat & Ground Transfers Included"
+      ],
+      "featured": false,
+      "coverImage": "/src/assets/images/madinah_masjid_nabawi_1794828028548.jpg",
+      "schedules": [
+        {
+          "id": "sched-reg-1",
+          "label": "April Batch A",
+          "departureDate": "2027-04-10",
+          "returnDate": "2027-04-22",
+          "departureRoute": "Kano → Jeddah",
+          "returnRoute": "Jeddah → Kano",
+          "airline": "Saudi Airlines",
+          "seatsTotal": 40,
+          "seatsBooked": 18,
+          "escortId": "esc-3"
+        }
+      ]
+    },
+    {
+      "id": "hajj-2027-executive",
+      "title": "Hajj 2027 Executive Caravan",
+      "season": "Hajj 2027",
+      "category": "Hajj",
+      "tier": "Luxury",
+      "subtitle": "Complete Mashaer & Haramain Care",
+      "priceNgn": 13800000,
+      "hotelRating": "5★ Makkah & Madinah + VIP Mina Tents",
+      "makkahHotel": "Swissôtel Makkah (Abraj Al Bait)",
+      "madinahHotel": "Crowne Plaza Madinah",
+      "distanceToHaram": "Direct Haram Access",
+      "description": "Comprehensive NAHCON-aligned Hajj package with air-conditioned VIP Mina & Arafat camps, experienced Nigerian & Arabic-speaking scholars, medical team, and full luggage logistics from Kano.",
+      "inclusions": [
+        "Direct Charter / Saudi Airlines Return Flight",
+        "Official Hajj Visa & Nusuk Permit",
+        "VIP Mina & Arafat Hospitality Tents",
+        "All Ground & Mashaer Rail Transfers",
+        "Full Board Nigerian & Continental Meals"
+      ],
+      "featured": false,
+      "coverImage": "/src/assets/images/saudia_airline_tarmac_1794828029602.jpg",
+      "schedules": [
+        {
+          "id": "sched-hajj-1",
+          "label": "Hajj Caravan 1",
+          "departureDate": "2027-05-12",
+          "returnDate": "2027-06-05",
+          "departureRoute": "Kano → Madinah",
+          "returnRoute": "Jeddah → Kano",
+          "airline": "Saudi Airlines",
+          "seatsTotal": 60,
+          "seatsBooked": 42,
+          "escortId": "esc-1"
+        }
+      ]
+    }
+  ],
+  "flights": [
+    {
+      "id": "flt-sv-402",
+      "airline": "Saudi Airlines",
+      "airlineCode": "SV",
+      "flightNumber": "SV 402",
+      "originCode": "KAN",
+      "originCity": "Kano",
+      "destinationCode": "JED",
+      "destinationCity": "Jeddah",
+      "departureTime": "14:30",
+      "arrivalTime": "22:15",
+      "duration": "5h 45m",
+      "stops": 0,
+      "cabinClass": "Economy",
+      "baggage": "2 × 23kg + Zamzam",
+      "priceNgn": 1450000,
+      "seatsAvailable": 14
+    },
+    {
+      "id": "flt-sv-418",
+      "airline": "Saudi Airlines",
+      "airlineCode": "SV",
+      "flightNumber": "SV 418",
+      "originCode": "KAN",
+      "originCity": "Kano",
+      "destinationCode": "MED",
+      "destinationCity": "Madinah",
+      "departureTime": "16:10",
+      "arrivalTime": "23:50",
+      "duration": "5h 40m",
+      "stops": 0,
+      "cabinClass": "Economy",
+      "baggage": "2 × 23kg + Zamzam",
+      "priceNgn": 1520000,
+      "seatsAvailable": 11
+    },
+    {
+      "id": "flt-et-940",
+      "airline": "Ethiopian Airlines",
+      "airlineCode": "ET",
+      "flightNumber": "ET 940",
+      "originCode": "KAN",
+      "originCity": "Kano",
+      "destinationCode": "JED",
+      "destinationCity": "Jeddah",
+      "departureTime": "13:15",
+      "arrivalTime": "00:45",
+      "duration": "9h 30m",
+      "stops": 1,
+      "stopCity": "Addis Ababa (ADD)",
+      "cabinClass": "Economy",
+      "baggage": "2 × 23kg",
+      "priceNgn": 1240000,
+      "seatsAvailable": 19
+    },
+    {
+      "id": "flt-ms-878",
+      "airline": "EgyptAir",
+      "airlineCode": "MS",
+      "flightNumber": "MS 878",
+      "originCode": "KAN",
+      "originCity": "Kano",
+      "destinationCode": "JED",
+      "destinationCity": "Jeddah",
+      "departureTime": "02:20",
+      "arrivalTime": "12:55",
+      "duration": "8h 35m",
+      "stops": 1,
+      "stopCity": "Cairo (CAI)",
+      "cabinClass": "Economy",
+      "baggage": "2 × 23kg",
+      "priceNgn": 1190000,
+      "seatsAvailable": 22
+    },
+    {
+      "id": "flt-qr-1416",
+      "airline": "Qatar Airways",
+      "airlineCode": "QR",
+      "flightNumber": "QR 1416",
+      "originCode": "KAN",
+      "originCity": "Kano",
+      "destinationCode": "DXB",
+      "destinationCity": "Dubai",
+      "departureTime": "19:40",
+      "arrivalTime": "07:25",
+      "duration": "9h 45m",
+      "stops": 1,
+      "stopCity": "Doha (DOH)",
+      "cabinClass": "Economy",
+      "baggage": "30kg Checked",
+      "priceNgn": 1380000,
+      "seatsAvailable": 16
+    },
+    {
+      "id": "flt-et-dxb",
+      "airline": "Ethiopian Airlines",
+      "airlineCode": "ET",
+      "flightNumber": "ET 942",
+      "originCode": "KAN",
+      "originCity": "Kano",
+      "destinationCode": "DXB",
+      "destinationCity": "Dubai",
+      "departureTime": "13:15",
+      "arrivalTime": "23:55",
+      "duration": "7h 40m",
+      "stops": 1,
+      "stopCity": "Addis Ababa (ADD)",
+      "cabinClass": "Economy",
+      "baggage": "2 × 23kg",
+      "priceNgn": 1285000,
+      "seatsAvailable": 12
+    },
+    {
+      "id": "flt-sv-biz",
+      "airline": "Saudi Airlines",
+      "airlineCode": "SV",
+      "flightNumber": "SV 404",
+      "originCode": "KAN",
+      "originCity": "Kano",
+      "destinationCode": "JED",
+      "destinationCity": "Jeddah",
+      "departureTime": "14:30",
+      "arrivalTime": "22:15",
+      "duration": "5h 45m",
+      "stops": 0,
+      "cabinClass": "Business",
+      "baggage": "2 × 32kg + Lounge",
+      "priceNgn": 3850000,
+      "seatsAvailable": 6
+    },
+    {
+      "id": "flt-p4-lhr",
+      "airline": "Air Peace",
+      "airlineCode": "P4",
+      "flightNumber": "P4 7578",
+      "originCode": "LOS",
+      "originCity": "Lagos",
+      "destinationCode": "LHR",
+      "destinationCity": "London",
+      "departureTime": "22:15",
+      "arrivalTime": "05:10",
+      "duration": "6h 55m",
+      "stops": 0,
+      "cabinClass": "Economy",
+      "baggage": "2 × 23kg",
+      "priceNgn": 1620000,
+      "seatsAvailable": 15
+    },
+    {
+      "id": "flt-qr-lhr",
+      "airline": "Qatar Airways",
+      "airlineCode": "QR",
+      "flightNumber": "QR 1418",
+      "originCode": "ABV",
+      "originCity": "Abuja",
+      "destinationCode": "LHR",
+      "destinationCity": "London",
+      "departureTime": "18:20",
+      "arrivalTime": "06:40",
+      "duration": "12h 20m",
+      "stops": 1,
+      "stopCity": "Doha (DOH)",
+      "cabinClass": "Economy",
+      "baggage": "2 × 23kg",
+      "priceNgn": 1740000,
+      "seatsAvailable": 9
+    }
+  ],
+  "hotels": [
+    {
+      "id": "htl-fairmont-makkah",
+      "name": "Fairmont Makkah Clock Royal Tower",
+      "city": "Makkah",
+      "stars": 5,
+      "proximity": "0m — Direct Masjid al-Haram Courtyard",
+      "roomTypes": [
+        "Double",
+        "Triple",
+        "Quad",
+        "Suite"
+      ],
+      "ratePerNightNgn": 580000,
+      "amenities": [
+        "Kaaba View Rooms",
+        "Direct Haram Elevator",
+        "24h Suhoor/Iftar",
+        "Haram Audio Feed"
+      ],
+      "coverImage": "/src/assets/images/makkah_luxury_hotel_suite_1794828029477.jpg",
+      "featured": true
+    },
+    {
+      "id": "htl-anjum-makkah",
+      "name": "Anjum Hotel Makkah",
+      "city": "Makkah",
+      "stars": 4,
+      "proximity": "180m — King Fahd Gate Walkway",
+      "roomTypes": [
+        "Double",
+        "Triple",
+        "Quad"
+      ],
+      "ratePerNightNgn": 295000,
+      "amenities": [
+        "Private Haram Gate Access",
+        "Buffet Dining",
+        "Family Suites",
+        "High-Speed Wi-Fi"
+      ],
+      "coverImage": "/src/assets/images/makkah_masjid_al_haram_1794828027918.jpg",
+      "featured": true
+    },
+    {
+      "id": "htl-kiswah-makkah",
+      "name": "Al Kiswah Towers Hotel",
+      "city": "Makkah",
+      "stars": 3,
+      "proximity": "850m — 24/7 Air-Conditioned Haram Shuttle",
+      "roomTypes": [
+        "Triple",
+        "Quad"
+      ],
+      "ratePerNightNgn": 145000,
+      "amenities": [
+        "5-Min Haram Shuttle",
+        "Prayer Hall",
+        "24h Reception",
+        "Air Conditioning"
+      ],
+      "coverImage": "/src/assets/images/makkah_masjid_al_haram_1794828027918.jpg",
+      "featured": false
+    },
+    {
+      "id": "htl-pullman-madinah",
+      "name": "Pullman Zamzam Madinah",
+      "city": "Madinah",
+      "stars": 5,
+      "proximity": "150m — Bab Al Salam Gate, Masjid an-Nabawi",
+      "roomTypes": [
+        "Double",
+        "Triple",
+        "Quad",
+        "Suite"
+      ],
+      "ratePerNightNgn": 410000,
+      "amenities": [
+        "Masjid an-Nabawi Views",
+        "Concierge",
+        "Buffet Breakfast",
+        "Wheelchair Friendly"
+      ],
+      "coverImage": "/src/assets/images/madinah_masjid_nabawi_1794828028548.jpg",
+      "featured": true
+    },
+    {
+      "id": "htl-saja-madinah",
+      "name": "Saja Al Madinah Hotel",
+      "city": "Madinah",
+      "stars": 4,
+      "proximity": "350m — North Central Haram Area",
+      "roomTypes": [
+        "Double",
+        "Triple",
+        "Quad"
+      ],
+      "ratePerNightNgn": 215000,
+      "amenities": [
+        "Walking Distance to Ladies Gate",
+        "Dining Hall",
+        "Free Wi-Fi"
+      ],
+      "coverImage": "/src/assets/images/madinah_masjid_nabawi_1794828028548.jpg",
+      "featured": false
+    },
+    {
+      "id": "htl-atlantis-dubai",
+      "name": "Address Dubai Mall / Downtown Suites",
+      "city": "Dubai",
+      "stars": 5,
+      "proximity": "Downtown Dubai — Direct Mall Link",
+      "roomTypes": [
+        "Double",
+        "Suite"
+      ],
+      "ratePerNightNgn": 490000,
+      "amenities": [
+        "Burj Khalifa View",
+        "Airport Transfer",
+        "Family Connected Rooms"
+      ],
+      "coverImage": "/src/assets/images/makkah_luxury_hotel_suite_1794828029477.jpg",
+      "featured": false
+    },
+    {
+      "id": "htl-transcorp-abuja",
+      "name": "Transcorp Hilton Abuja",
+      "city": "Abuja",
+      "stars": 5,
+      "proximity": "Maitama District — 35 mins to Nnamdi Azikiwe Intl",
+      "roomTypes": [
+        "Double",
+        "Suite"
+      ],
+      "ratePerNightNgn": 320000,
+      "amenities": [
+        "Executive Lounge",
+        "Airport Pickup",
+        "Conference Access"
+      ],
+      "coverImage": "/src/assets/images/makkah_luxury_hotel_suite_1794828029477.jpg",
+      "featured": false
+    }
+  ],
+  "bookings": [
+    {
+      "id": "bkg-1794828712342",
+      "reference": "SIDI-2027-5342",
+      "userId": "user-1794828712342",
+      "customerName": "Hajiya Amina Bello",
+      "customerEmail": "amina.bello@example.com",
+      "customerPhone": "08062653644",
+      "bookingType": "Umrah Package",
+      "itemId": "umrah-ramadan-economy",
+      "itemTitle": "Ramadan 2027 Umrah — Economy",
+      "tierOrCabin": "Economy (3★ Quality Hotels)",
+      "scheduleLabel": "Package 1 (2027-02-08 – 2027-03-06)",
+      "departureDate": "2027-02-08",
+      "returnDate": "2027-03-06",
+      "routeOrLocation": "Kano → Jeddah · Jeddah → Kano",
+      "passengersCount": 1,
+      "passengers": [
+        {
+          "fullName": "Hajiya Amina Bello",
+          "passportNumber": "B77441122",
+          "gender": "Male"
+        }
+      ],
+      "totalAmountNgn": 4700000,
+      "amountPaidNgn": 2500000,
+      "paymentPlan": "Installment",
+      "status": "Part-Paid",
+      "escortName": "Ustaz Abdullahi Sidi",
+      "escortPhone": "08035926442",
+      "hotelSummary": "Voco Makkah / Al Kiswah Towers (Shuttle to Haram) & Bosphorus Al Madinah (400m to Nabawi)",
+      "transactions": [
+        {
+          "id": "txn-1794828712342",
+          "reference": "PAY-SIDI-2027-5342",
+          "amountNgn": 2500000,
+          "channel": "Offline POS / Cash",
+          "status": "Verified",
+          "paidAt": "2026-11-16T11:31:52.342Z",
+          "note": "Admin Desk Pilgrim Registration"
+        }
+      ],
+      "createdAt": "2026-11-16T11:31:52.342Z"
+    },
+    {
+      "id": "bkg-1794828619629",
+      "reference": "SIDI-2027-2629",
+      "userId": "user-1794828546901",
+      "customerName": "Alhaji Sadiq Garba",
+      "customerEmail": "sadiq.garba@example.com",
+      "customerPhone": "08031112233",
+      "bookingType": "Umrah Package",
+      "itemId": "umrah-ramadan-economy",
+      "itemTitle": "Ramadan 2027 Umrah — Economy",
+      "tierOrCabin": "Economy (3★ Quality Hotels)",
+      "scheduleLabel": "Package 1 (2027-02-08 – 2027-03-06)",
+      "departureDate": "2027-02-08",
+      "returnDate": "2027-03-06",
+      "routeOrLocation": "Kano → Jeddah · Jeddah → Kano",
+      "passengersCount": 1,
+      "passengers": [
+        {
+          "fullName": "Alhaji Sadiq Garba",
+          "passportNumber": "A91827364",
+          "gender": "Male"
+        }
+      ],
+      "totalAmountNgn": 4700000,
+      "amountPaidNgn": 2000000,
+      "paymentPlan": "Installment",
+      "status": "Part-Paid",
+      "escortName": "Ustaz Abdullahi Sidi",
+      "escortPhone": "08035926442",
+      "hotelSummary": "Voco Makkah / Al Kiswah Towers (Shuttle to Haram) & Bosphorus Al Madinah (400m to Nabawi)",
+      "transactions": [
+        {
+          "id": "txn-1794828619629",
+          "reference": "PAY-SIDI-2027-2629",
+          "amountNgn": 2000000,
+          "channel": "Offline POS / Cash",
+          "status": "Verified",
+          "paidAt": "2026-11-16T11:30:19.629Z",
+          "note": "Admin Desk Pilgrim Registration"
+        }
+      ],
+      "createdAt": "2026-11-16T11:30:19.629Z"
+    },
+    {
+      "id": "bkg-1794828546901",
+      "reference": "SIDI-2027-1901",
+      "userId": "user-1794828546901",
+      "customerName": "Alhaji Sadiq Garba",
+      "customerEmail": "sadiq.garba@example.com",
+      "customerPhone": "08031112233",
+      "bookingType": "Umrah Package",
+      "itemId": "umrah-ramadan-economy",
+      "itemTitle": "Ramadan 2027 Umrah — Economy",
+      "tierOrCabin": "Economy (3★ Quality Hotels)",
+      "scheduleLabel": "Package 1 (2027-02-08 – 2027-03-06)",
+      "departureDate": "2027-02-08",
+      "returnDate": "2027-03-06",
+      "routeOrLocation": "Kano → Jeddah · Jeddah → Kano",
+      "passengersCount": 1,
+      "passengers": [
+        {
+          "fullName": "Alhaji Sadiq Garba",
+          "passportNumber": "A91827364",
+          "gender": "Male"
+        }
+      ],
+      "totalAmountNgn": 4700000,
+      "amountPaidNgn": 2000000,
+      "paymentPlan": "Installment",
+      "status": "Part-Paid",
+      "escortName": "Ustaz Abdullahi Sidi",
+      "escortPhone": "08035926442",
+      "hotelSummary": "Voco Makkah / Al Kiswah Towers (Shuttle to Haram) & Bosphorus Al Madinah (400m to Nabawi)",
+      "transactions": [
+        {
+          "id": "txn-1794828546901",
+          "reference": "PAY-SIDI-2027-1901",
+          "amountNgn": 2000000,
+          "channel": "Offline POS / Cash",
+          "status": "Verified",
+          "paidAt": "2026-11-16T11:29:06.901Z",
+          "note": "Admin Desk Pilgrim Registration"
+        }
+      ],
+      "createdAt": "2026-11-16T11:29:06.901Z"
+    },
+    {
+      "id": "bkg-seed-1",
+      "reference": "SIDI-2027-4810",
+      "userId": "user-demo-1",
+      "customerName": "Alhaji Ibrahim Musa",
+      "customerEmail": "user@siditravel.com",
+      "customerPhone": "08035926442",
+      "bookingType": "Umrah Package",
+      "itemId": "umrah-ramadan-luxury",
+      "itemTitle": "Ramadan 2027 Umrah — Luxury",
+      "tierOrCabin": "Luxury (4★)",
+      "scheduleLabel": "Package 1 (08 Feb – 06 Mar 2027)",
+      "departureDate": "2027-02-08",
+      "returnDate": "2027-03-06",
+      "routeOrLocation": "Kano → Jeddah · Jeddah → Kano",
+      "passengersCount": 1,
+      "passengers": [
+        {
+          "fullName": "Ibrahim Musa Abdullahi",
+          "passportNumber": "B50294812",
+          "gender": "Male"
+        }
+      ],
+      "totalAmountNgn": 6000000,
+      "amountPaidNgn": 3500000,
+      "paymentPlan": "Installment",
+      "status": "Part-Paid",
+      "escortName": "Ustaz Abdullahi Sidi",
+      "escortPhone": "08035926442",
+      "hotelSummary": "Anjum Hotel Makkah (4★) & Pullman Zamzam Madinah",
+      "transactions": [
+        {
+          "id": "txn-seed-1",
+          "reference": "PAY-SIDI-99210",
+          "amountNgn": 2000000,
+          "channel": "Bank Transfer",
+          "status": "Verified",
+          "paidAt": "2026-10-18T11:20:00Z",
+          "note": "Initial seat reservation deposit"
+        },
+        {
+          "id": "txn-seed-2",
+          "reference": "PAY-SIDI-99402",
+          "amountNgn": 1500000,
+          "channel": "Card",
+          "status": "Verified",
+          "paidAt": "2026-11-05T15:40:00Z",
+          "note": "Second installment top-up"
+        }
+      ],
+      "createdAt": "2026-10-18T11:20:00Z"
+    },
+    {
+      "id": "bkg-seed-2",
+      "reference": "SIDI-2027-5124",
+      "userId": "user-demo-2",
+      "customerName": "Hajiya Amina Bello",
+      "customerEmail": "amina.bello@example.ng",
+      "customerPhone": "08143390486",
+      "bookingType": "Umrah Package",
+      "itemId": "umrah-ramadan-premium",
+      "itemTitle": "Ramadan 2027 Umrah — Premium VIP",
+      "tierOrCabin": "Premium (5★)",
+      "scheduleLabel": "Package 4 (22 Feb – 13 Mar 2027)",
+      "departureDate": "2027-02-22",
+      "returnDate": "2027-03-13",
+      "routeOrLocation": "Kano → Madinah · Jeddah → Kano",
+      "passengersCount": 1,
+      "passengers": [
+        {
+          "fullName": "Amina Bello Usman",
+          "passportNumber": "A09482711",
+          "gender": "Female"
+        }
+      ],
+      "totalAmountNgn": 11000000,
+      "amountPaidNgn": 11000000,
+      "paymentPlan": "Full",
+      "status": "Confirmed",
+      "escortName": "Malama Fatima Zahra",
+      "escortPhone": "08062653644",
+      "hotelSummary": "Fairmont Makkah Clock Royal Tower (5★)",
+      "transactions": [
+        {
+          "id": "txn-seed-3",
+          "reference": "PAY-SIDI-99812",
+          "amountNgn": 11000000,
+          "channel": "Bank Transfer",
+          "status": "Verified",
+          "paidAt": "2026-11-10T09:15:00Z",
+          "note": "Full VIP package settlement"
+        }
+      ],
+      "createdAt": "2026-11-10T09:15:00Z"
+    },
+    {
+      "id": "bkg-seed-3",
+      "reference": "SIDI-2027-6091",
+      "userId": "user-demo-1",
+      "customerName": "Alhaji Ibrahim Musa",
+      "customerEmail": "user@siditravel.com",
+      "customerPhone": "08035926442",
+      "bookingType": "Flight",
+      "itemId": "flt-qr-1416",
+      "itemTitle": "Qatar Airways QR 1416 · Kano → Dubai",
+      "tierOrCabin": "Economy",
+      "departureDate": "2026-12-18",
+      "returnDate": "2026-12-27",
+      "routeOrLocation": "KAN → DXB (1 Stop DOH)",
+      "passengersCount": 1,
+      "passengers": [
+        {
+          "fullName": "Ibrahim Musa Abdullahi",
+          "passportNumber": "B50294812",
+          "gender": "Male"
+        }
+      ],
+      "totalAmountNgn": 1380000,
+      "amountPaidNgn": 1380000,
+      "paymentPlan": "Full",
+      "status": "Confirmed",
+      "transactions": [
+        {
+          "id": "txn-seed-4",
+          "reference": "PAY-SIDI-99901",
+          "amountNgn": 1380000,
+          "channel": "USSD",
+          "status": "Verified",
+          "paidAt": "2026-11-12T16:05:00Z"
+        }
+      ],
+      "createdAt": "2026-11-12T16:05:00Z"
+    }
+  ],
+  "visas": [
+    {
+      "id": "visa-1794828712342",
+      "userId": "user-1794828712342",
+      "applicantName": "Hajiya Amina Bello",
+      "applicantEmail": "amina.bello@example.com",
+      "applicantPhone": "08062653644",
+      "country": "Saudi Arabia",
+      "category": "Umrah Visa",
+      "processingSpeed": "Standard (5-7 Days)",
+      "passportNumber": "B77441122",
+      "stage": "Pending Review",
+      "notes": "Registered via Admin Desk (SIDI-2027-5342)",
+      "documents": [],
+      "updatedAt": "2026-11-16T11:31:52.342Z"
+    },
+    {
+      "id": "visa-1794828619629",
+      "userId": "user-1794828546901",
+      "applicantName": "Alhaji Sadiq Garba",
+      "applicantEmail": "sadiq.garba@example.com",
+      "applicantPhone": "08031112233",
+      "country": "Saudi Arabia",
+      "category": "Umrah Visa",
+      "processingSpeed": "Standard (5-7 Days)",
+      "passportNumber": "A91827364",
+      "stage": "Pending Review",
+      "notes": "Registered via Admin Desk (SIDI-2027-2629)",
+      "documents": [],
+      "updatedAt": "2026-11-16T11:30:19.629Z"
+    },
+    {
+      "id": "visa-1794828546901",
+      "userId": "user-1794828546901",
+      "applicantName": "Alhaji Sadiq Garba",
+      "applicantEmail": "sadiq.garba@example.com",
+      "applicantPhone": "08031112233",
+      "country": "Saudi Arabia",
+      "category": "Umrah Visa",
+      "processingSpeed": "Standard (5-7 Days)",
+      "passportNumber": "A91827364",
+      "stage": "Pending Review",
+      "notes": "Registered via Admin Desk (SIDI-2027-1901)",
+      "documents": [],
+      "updatedAt": "2026-11-16T11:29:06.901Z"
+    },
+    {
+      "id": "visa-seed-1",
+      "userId": "user-demo-1",
+      "applicantName": "Alhaji Ibrahim Musa",
+      "applicantEmail": "user@siditravel.com",
+      "applicantPhone": "08035926442",
+      "country": "Saudi Arabia",
+      "category": "Umrah Visa",
+      "processingSpeed": "Standard (5-7 Days)",
+      "passportNumber": "B50294812",
+      "stage": "Processing at Embassy",
+      "notes": "Biometrics verified at Kano desk. Embassy issuance in progress.",
+      "documents": [
+        {
+          "type": "Passport Data Page",
+          "fileName": "ibrahim_passport_datapage.jpg",
+          "dataUrl": "/src/assets/images/makkah_masjid_al_haram_1794828027918.jpg",
+          "uploadedAt": "2026-11-02T10:00:00Z"
+        },
+        {
+          "type": "Yellow Fever Card",
+          "fileName": "yellow_fever_cert_2026.jpg",
+          "dataUrl": "/src/assets/images/madinah_masjid_nabawi_1794828028548.jpg",
+          "uploadedAt": "2026-11-02T10:05:00Z"
+        }
+      ],
+      "updatedAt": "2026-11-11T14:30:00Z"
+    },
+    {
+      "id": "visa-seed-2",
+      "userId": "user-demo-2",
+      "applicantName": "Hajiya Amina Bello",
+      "applicantEmail": "amina.bello@example.ng",
+      "applicantPhone": "08143390486",
+      "country": "Saudi Arabia",
+      "category": "Umrah Visa",
+      "processingSpeed": "Express (48-72 Hours)",
+      "passportNumber": "A09482711",
+      "stage": "Visa Approved & Issued",
+      "issuedVisaUrl": "/src/assets/images/makkah_masjid_al_haram_1794828027918.jpg",
+      "notes": "E-Visa issued and linked to Package 4 flight manifest.",
+      "documents": [
+        {
+          "type": "Passport Data Page",
+          "fileName": "amina_passport.jpg",
+          "dataUrl": "/src/assets/images/madinah_masjid_nabawi_1794828028548.jpg",
+          "uploadedAt": "2026-11-08T09:00:00Z"
+        }
+      ],
+      "updatedAt": "2026-11-13T16:45:00Z"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "title": "Masjid al-Haram & Kaaba at Twilight",
+      "category": "Makkah & Madinah",
+      "mediaType": "photo",
+      "url": "/src/assets/images/makkah_masjid_al_haram_1794828027918.jpg",
+      "caption": "Evening serenity in the grand courtyard of Masjid al-Haram, Makkah Al-Mukarramah.",
+      "location": "Makkah, Saudi Arabia",
+      "date": "2026-11-14",
+      "featuredOnHome": true
+    },
+    {
+      "id": "gal-2",
+      "title": "Masjid an-Nabawi Green Dome Morning",
+      "category": "Makkah & Madinah",
+      "mediaType": "photo",
+      "url": "/src/assets/images/madinah_masjid_nabawi_1794828028548.jpg",
+      "caption": "Peaceful morning arrivals under the iconic shading umbrellas of Masjid an-Nabawi.",
+      "location": "Madinah Al-Munawwarah",
+      "date": "2026-11-12",
+      "featuredOnHome": true
+    },
+    {
+      "id": "gal-3",
+      "title": "Direct Pilgrim Aircraft Boarding",
+      "category": "Pilgrim Departures",
+      "mediaType": "photo",
+      "url": "/src/assets/images/saudia_airline_tarmac_1794828029602.jpg",
+      "caption": "Wide-body international departures coordinated smoothly for Sidi Travel caravans.",
+      "location": "Kano → Jeddah / Madinah",
+      "date": "2026-11-10",
+      "featuredOnHome": true
+    },
+    {
+      "id": "gal-4",
+      "title": "5-Star Haram Courtyard Suite",
+      "category": "Hotels & Ziyarat",
+      "mediaType": "photo",
+      "url": "/src/assets/images/makkah_luxury_hotel_suite_1794828029477.jpg",
+      "caption": "Panoramic suites overlooking the Holy Kaaba reserved for Premium VIP Ramadan guests.",
+      "location": "Clock Tower, Makkah",
+      "date": "2026-11-08",
+      "featuredOnHome": true
+    },
+    {
+      "id": "gal-5",
+      "title": "Golden-Hour International Aviation",
+      "category": "Pilgrim Departures",
+      "mediaType": "photo",
+      "url": "/src/assets/images/hero_aeroplane_aviation_1794828027775.jpg",
+      "caption": "Comfortable long-haul flights connecting Kano, Abuja, and Lagos to Saudi Arabia and Dubai.",
+      "location": "International Airspace",
+      "date": "2026-11-06",
+      "featuredOnHome": false
+    },
+    {
+      "id": "gal-6",
+      "title": "Ramadan Pilgrims Departure Reel (@Sidi_travelandtours)",
+      "category": "Videos & Reels",
+      "mediaType": "video",
+      "url": "https://www.instagram.com/Sidi_travelandtours/",
+      "caption": "Highlights of our Kano pilgrim caravan departing on Saudi Airlines for Madinah Al-Munawwarah.",
+      "location": "Kano → Madinah",
+      "date": "2026-11-04",
+      "featuredOnHome": false
+    },
+    {
+      "id": "gal-7",
+      "title": "Ziyarat Tour & Haramain Vlog (@sidi.travel.and.t)",
+      "category": "Videos & Reels",
+      "mediaType": "video",
+      "url": "https://www.tiktok.com/@sidi.travel.and.t",
+      "caption": "Guided Ziyarat to Quba Mosque, Mount Uhud, and Makkah historical sites with our escort team.",
+      "location": "Madinah & Makkah",
+      "date": "2026-11-08",
+      "featuredOnHome": false
+    }
+  ],
+  "escorts": [
+    {
+      "id": "esc-1",
+      "name": "Ustaz Abdullahi Sidi",
+      "role": "Lead Pilgrimage Escort & Scholar",
+      "phone": "08035926442",
+      "languages": "Hausa, English, Arabic",
+      "assignedBatches": [
+        "Package 1",
+        "Package 3",
+        "Hajj Caravan 1"
+      ]
+    },
+    {
+      "id": "esc-2",
+      "name": "Alhaji Yusuf Tanko",
+      "role": "Senior Operations & Ground Logistics Escort",
+      "phone": "07063239860",
+      "languages": "Hausa, English, Arabic",
+      "assignedBatches": [
+        "Package 2",
+        "Package 5"
+      ]
+    },
+    {
+      "id": "esc-3",
+      "name": "Malama Fatima Zahra",
+      "role": "Sisters Welfare & Ziyarat Coordinator",
+      "phone": "08062653644",
+      "languages": "Hausa, English, Arabic",
+      "assignedBatches": [
+        "Package 4",
+        "April Batch A"
+      ]
+    }
+  ],
+  "notices": [
+    {
+      "id": "not-1",
+      "title": "Notice of Meeting for All Escorts",
+      "audience": "All Escorts",
+      "dateLabel": "Monday, 16th November 2026",
+      "timeLabel": "6:00 PM Prompt",
+      "venue": "Sidi Travel & Tours Ltd. Office, Shopping Complex Plaza, opposite Ado Bayero Mall, Zoo Road, Kano State",
+      "message": "There will be a meeting of all Escorts of Sidi Travel & Tours Ltd. All are expected to attend. Kindly be punctual. Your presence is important. — THE MANAGEMENT",
+      "createdAt": "2026-11-14T16:56:00Z"
+    },
+    {
+      "id": "not-2",
+      "title": "Ramadan 2027 Early Seat Lock & Passport Submission",
+      "audience": "Package 1-5 Departures",
+      "dateLabel": "Ongoing — Until 20 Jan 2027",
+      "timeLabel": "9:00 AM – 5:00 PM Daily",
+      "venue": "Kano Head Office & Online Document Vault",
+      "message": "Pilgrims on Packages 1–5 are advised to upload clear copies of their International Passport (6+ months validity), Yellow Fever card, and NIN via the Pilgrim Dashboard to expedite Saudi e-Visa issuance.",
+      "createdAt": "2026-11-15T10:00:00Z"
+    }
+  ],
+  "inquiries": []
+}

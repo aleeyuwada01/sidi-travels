@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-display: 'Lato', system-ui, -apple-system, sans-serif;
+    --font-sans: 'Lato', system-ui, -apple-system, sans-serif;
+    --font-mono: 'Lato', system-ui, -apple-system, sans-serif;
+    --brand-navy: #0A224E;
+    --brand-navy-mid: #0F2C67;
+    --brand-navy-dark: #061533;
+    --brand-gold: #D4AF37;
+    --brand-gold-bright: #F5B800;
+  }
+
+  html,
+  body {
+    font-family: var(--font-sans);
+    scroll-behavior: smooth;
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: var(--font-display);
+  }
+
+  .font-mono {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+}
